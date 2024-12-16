@@ -36,15 +36,22 @@ Data fasilitas kesehatan diperoleh dari sumber berikut:
 
 ### 1. Landing Page  
 Tampilan awal aplikasi dengan menu navigasi ke fitur utama seperti peta, data, sumber data, dan informasi.  
-![Landing Page](screenshot/landingpage.png)  
+![landingpage](https://github.com/user-attachments/assets/5072d849-8943-45a7-b71d-83ca2fd855cd)
+
+
 
 ### 2. Tabel Fasilitas Kesehatan  
 Menampilkan data fasilitas kesehatan dalam bentuk tabel dengan fungsi **Add, Update, dan Delete (CRUD)**.  
-![Tabel CRUD](screenshot/tabel.png)  
+![tabel](https://github.com/user-attachments/assets/ec99b178-01c6-4aa9-b948-6597080dcf1d)
+ 
 
 ### 3. Peta GIS Fasilitas Kesehatan  
 Peta interaktif yang menampilkan lokasi fasilitas kesehatan menggunakan teknologi GIS.  
-![Peta GIS](screenshot/peta.png)  
+![peta](https://github.com/user-attachments/assets/2d83b804-2014-4cf7-8524-509ba7e3919f) 
+
+
+### 4. Info Pembuat
+![pembuat](https://github.com/user-attachments/assets/a570bdfa-1e9d-4355-82bb-4b1b9bae80e6)
 
 ---
 
